@@ -85,7 +85,7 @@ Please use one of the following AG endpoints which are proven to work well with 
   * vpn.sjc04.softlayer.com
   * vpn.syd04.softlayer.com
   * vpn.syd05.softlayer.com
-  * vpn.tok.softlayer.com (TOK04 and TOK05)
+  * vpn.tok.softlayer.com (TOK04 and TOK05) =====> Please remove
   * vpn.wdc06.softlayer.com
   * vpn.wdc07.softlayer.com
 
